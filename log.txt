@@ -1,0 +1,99 @@
+Extraction des fichiers...
+Fichier candidat analysé; nombre de lignes : 25
+Fichier departement analysé; nombre de lignes : 5
+Fichier parti politique analysé; nombre de lignes : 5
+Création des objets departement..
+Departement 1 ajouté
+Departement 2 ajouté
+Departement 3 ajouté
+Departement 4 ajouté
+Departement 5 ajouté
+Nombre de departements ajoutés : 5
+Création des objets PartiPolitique..
+Parti PERF ajouté
+Parti FAM ajouté
+Parti MAG ajouté
+Parti PST ajouté
+Parti JOMS ajouté
+Nombre de partis ajoutés : 5
+Création des objets candidat..
+Candidat Gore du parti JOMS ajouté.
+Candidat Gore se présente dans le departement Abidjan.
+Candidat Gore present maintenant dans la liste des candidats.
+Candidat Gohou du parti PERF ajouté.
+Candidat Gohou se présente dans le departement Abidjan.
+Candidat Gohou present maintenant dans la liste des candidats.
+Candidat Yoboue du parti FAM ajouté.
+Candidat Yoboue se présente dans le departement Abidjan.
+Candidat Yoboue present maintenant dans la liste des candidats.
+Candidat Nebout du parti MAG ajouté.
+Candidat Nebout se présente dans le departement Abidjan.
+Candidat Nebout present maintenant dans la liste des candidats.
+Candidat Hoba du parti PST ajouté.
+Candidat Hoba se présente dans le departement Abidjan.
+Candidat Hoba present maintenant dans la liste des candidats.
+Candidat Kone du parti JOMS ajouté.
+Candidat Kone se présente dans le departement Bassam.
+Candidat Kone present maintenant dans la liste des candidats.
+Candidat Kaba du parti PERF ajouté.
+Candidat Kaba se présente dans le departement Bassam.
+Candidat Kaba present maintenant dans la liste des candidats.
+Candidat Guindo du parti FAM ajouté.
+Candidat Guindo se présente dans le departement Bassam.
+Candidat Guindo present maintenant dans la liste des candidats.
+Candidat Kadja du parti MAG ajouté.
+Candidat Kadja se présente dans le departement Bassam.
+Candidat Kadja present maintenant dans la liste des candidats.
+Candidat Alla du parti PST ajouté.
+Candidat Alla se présente dans le departement Bassam.
+Candidat Alla present maintenant dans la liste des candidats.
+Candidat Koffi du parti JOMS ajouté.
+Candidat Koffi se présente dans le departement Korogho.
+Candidat Koffi present maintenant dans la liste des candidats.
+Candidat Gbei du parti PERF ajouté.
+Candidat Gbei se présente dans le departement Korogho.
+Candidat Gbei present maintenant dans la liste des candidats.
+Candidat Soro du parti FAM ajouté.
+Candidat Soro se présente dans le departement Korogho.
+Candidat Soro present maintenant dans la liste des candidats.
+Candidat Degbun du parti MAG ajouté.
+Candidat Degbun se présente dans le departement Korogho.
+Candidat Degbun present maintenant dans la liste des candidats.
+Candidat Kouame du parti PST ajouté.
+Candidat Kouame se présente dans le departement Korogho.
+Candidat Kouame present maintenant dans la liste des candidats.
+Candidat john du parti JOMS ajouté.
+Candidat john se présente dans le departement Daoukro.
+Candidat john present maintenant dans la liste des candidats.
+Candidat Kolo du parti PERF ajouté.
+Candidat Kolo se présente dans le departement Daoukro.
+Candidat Kolo present maintenant dans la liste des candidats.
+Candidat KPALE du parti MAG ajouté.
+Candidat KPALE se présente dans le departement Daoukro.
+Candidat KPALE present maintenant dans la liste des candidats.
+Candidat Goly du parti PST ajouté.
+Candidat Goly se présente dans le departement Daoukro.
+Candidat Goly present maintenant dans la liste des candidats.
+Candidat Albert du parti JOMS ajouté.
+Candidat Albert se présente dans le departement Daoukro.
+Candidat Albert present maintenant dans la liste des candidats.
+Candidat Pierre du parti PERF ajouté.
+Candidat Pierre se présente dans le departement Aboisso.
+Candidat Pierre present maintenant dans la liste des candidats.
+Candidat Diarra du parti FAM ajouté.
+Candidat Diarra se présente dans le departement Aboisso.
+Candidat Diarra present maintenant dans la liste des candidats.
+Candidat Goly du parti MAG ajouté.
+Candidat Goly se présente dans le departement Aboisso.
+Candidat Goly present maintenant dans la liste des candidats.
+Candidat Hens du parti PST ajouté.
+Candidat Hens se présente dans le departement Aboisso.
+Candidat Hens present maintenant dans la liste des candidats.
+Candidat Kambire du parti FAM ajouté.
+Candidat Kambire se présente dans le departement Aboisso.
+Candidat Kambire present maintenant dans la liste des candidats.
+Debut des élections..
+Bilan des élections..
+Bilan terminé 
+Consultez le fichier resultat.txt pour plus d'informations.
+Fin du programme..

@@ -1,0 +1,36 @@
+TAUX DE PARTICIPATION
+Taux de participation dans le département Abidjan: 11.056413937771575%
+Taux de participation dans le département Bassam: 85.92549855828392%
+Taux de participation dans le département Korogho: 50.25522852374811%
+Taux de participation dans le département Daoukro: 71.3716871619409%
+Taux de participation dans le département Aboisso: 98.9987597134685%
+Taux de participation Total : 37%
+
+
+PARTIS GAGNANTS
+Parti gagnant dans le département Abidjan: PST
+Parti gagnant dans le département Bassam: PST
+Parti gagnant dans le département Korogho: JOMS
+Parti gagnant dans le département Daoukro: PERF
+Parti gagnant dans le département Aboisso: PERF
+
+
+MAUVAIS SCORES
+Parti avec le plus mauvais score dans le département Abidjan: PERF
+Parti avec le plus mauvais score dans le département Bassam: PERF
+Parti avec le plus mauvais score dans le département Korogho: PERF
+Parti avec le plus mauvais score dans le département Daoukro: JOMS
+Parti avec le plus mauvais score dans le département Aboisso: PST
+
+
+DEPARTEMENTS à AU MOINS 50% DE TAUX DE PARTICIPATION
+Bassam avec un taux de 85%
+Korogho avec un taux de 50%
+Daoukro avec un taux de 71%
+Aboisso avec un taux de 98%
+
+
+DEPARTEMENTS AVEC TAUX DE PARTICIPATION 100% ET VOTE UNANIME
+Aucun.
+
+
